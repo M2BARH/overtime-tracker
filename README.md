@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Overtime Tracker ⏱️
 
 A simple but powerful Chrome Extension to track your overtime hours, calculate converted business time, and visualize your work history. All data is stored locally and privately on your device.
