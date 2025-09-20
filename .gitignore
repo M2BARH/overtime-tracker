@@ -1,0 +1,18 @@
+# JetBrains IDE folder
+.idea/
+
+# JetBrains IDE module files
+*.iml
+
+# Node.js dependencies (good practice for any web project)
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Build output folder (in case you add a build step later)
+dist/
+build/
